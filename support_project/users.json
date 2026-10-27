@@ -1,0 +1,482 @@
+[
+    {
+        "id": 1,
+        "full_name": "Смирнова Алихан",
+        "city": "Караганда",
+        "birth_date": "1986-10-21",
+        "position": "Менеджер",
+        "experience": 4
+    },
+    {
+        "id": 2,
+        "full_name": "Ким Дана",
+        "city": "Астана",
+        "birth_date": "2001-03-10",
+        "position": "Продавец",
+        "experience": 15
+    },
+    {
+        "id": 3,
+        "full_name": "Омаров Айдана",
+        "city": "Астана",
+        "birth_date": "1982-09-12",
+        "position": "Продавец",
+        "experience": 7
+    },
+    {
+        "id": 4,
+        "full_name": "Смирнова Алихан",
+        "city": "Шымкент",
+        "birth_date": "1981-10-05",
+        "position": "Менеджер",
+        "experience": 6
+    },
+    {
+        "id": 5,
+        "full_name": "Петров Руслан",
+        "city": "Павлодар",
+        "birth_date": "2004-11-25",
+        "position": "Студент",
+        "experience": 5
+    },
+    {
+        "id": 6,
+        "full_name": "Ахметова Мария",
+        "city": "Алматы",
+        "birth_date": "1995-10-27",
+        "position": "Менеджер",
+        "experience": 10
+    },
+    {
+        "id": 7,
+        "full_name": "Омаров Жанас",
+        "city": "Астана",
+        "birth_date": "1976-03-05",
+        "position": "Студент",
+        "experience": 13
+    },
+    {
+        "id": 8,
+        "full_name": "Серикова Иван",
+        "city": "Алматы",
+        "birth_date": "1987-07-15",
+        "position": "Инженер",
+        "experience": 4
+    },
+    {
+        "id": 9,
+        "full_name": "Омаров Айдана",
+        "city": "Павлодар",
+        "birth_date": "2004-06-09",
+        "position": "Менеджер",
+        "experience": 14
+    },
+    {
+        "id": 10,
+        "full_name": "Петров Айдана",
+        "city": "Павлодар",
+        "birth_date": "1981-01-03",
+        "position": "Продавец",
+        "experience": 8
+    },
+    {
+        "id": 11,
+        "full_name": "Петров Жанас",
+        "city": "Алматы",
+        "birth_date": "2002-04-17",
+        "position": "Менеджер",
+        "experience": 0
+    },
+    {
+        "id": 12,
+        "full_name": "Аменбеков Айдана",
+        "city": "Актобе",
+        "birth_date": "1996-02-09",
+        "position": "Продавец",
+        "experience": 13
+    },
+    {
+        "id": 13,
+        "full_name": "Смирнова Дана",
+        "city": "Актобе",
+        "birth_date": "1985-11-12",
+        "position": "Продавец",
+        "experience": 4
+    },
+    {
+        "id": 14,
+        "full_name": "Иванов Айдана",
+        "city": "Караганда",
+        "birth_date": "1996-01-13",
+        "position": "Студент",
+        "experience": 12
+    },
+    {
+        "id": 15,
+        "full_name": "Омаров Руслан",
+        "city": "Караганда",
+        "birth_date": "1985-04-17",
+        "position": "Продавец",
+        "experience": 11
+    },
+    {
+        "id": 16,
+        "full_name": "Ким Руслан",
+        "city": "Павлодар",
+        "birth_date": "1984-05-05",
+        "position": "Продавец",
+        "experience": 2
+    },
+    {
+        "id": 17,
+        "full_name": "Иванов Дана",
+        "city": "Астана",
+        "birth_date": "1994-08-02",
+        "position": "Студент",
+        "experience": 11
+    },
+    {
+        "id": 18,
+        "full_name": "Ким Анна",
+        "city": "Алматы",
+        "birth_date": "1983-10-19",
+        "position": "Менеджер",
+        "experience": 5
+    },
+    {
+        "id": 19,
+        "full_name": "Петров Айдана",
+        "city": "Павлодар",
+        "birth_date": "1994-12-04",
+        "position": "Студент",
+        "experience": 15
+    },
+    {
+        "id": 20,
+        "full_name": "Ким Анна",
+        "city": "Шымкент",
+        "birth_date": "1988-08-17",
+        "position": "Инженер",
+        "experience": 13
+    },
+    {
+        "id": 21,
+        "full_name": "Иванов Анна",
+        "city": "Алматы",
+        "birth_date": "2000-08-24",
+        "position": "Студент",
+        "experience": 1
+    },
+    {
+        "id": 22,
+        "full_name": "Смирнова Дана",
+        "city": "Караганда",
+        "birth_date": "1982-08-09",
+        "position": "Менеджер",
+        "experience": 1
+    },
+    {
+        "id": 23,
+        "full_name": "Ким Иван",
+        "city": "Шымкент",
+        "birth_date": "1992-06-25",
+        "position": "Студент",
+        "experience": 1
+    },
+    {
+        "id": 24,
+        "full_name": "Омаров Алихан",
+        "city": "Караганда",
+        "birth_date": "1990-04-27",
+        "position": "Продавец",
+        "experience": 6
+    },
+    {
+        "id": 25,
+        "full_name": "Ахметова Руслан",
+        "city": "Алматы",
+        "birth_date": "1978-02-13",
+        "position": "Инженер",
+        "experience": 15
+    },
+    {
+        "id": 26,
+        "full_name": "Петров Анна",
+        "city": "Павлодар",
+        "birth_date": "1990-04-25",
+        "position": "Продавец",
+        "experience": 3
+    },
+    {
+        "id": 27,
+        "full_name": "Омаров Мария",
+        "city": "Астана",
+        "birth_date": "1978-04-22",
+        "position": "Студент",
+        "experience": 1
+    },
+    {
+        "id": 28,
+        "full_name": "Иванов Мария",
+        "city": "Астана",
+        "birth_date": "1999-03-04",
+        "position": "Продавец",
+        "experience": 10
+    },
+    {
+        "id": 29,
+        "full_name": "Иванов Айдана",
+        "city": "Павлодар",
+        "birth_date": "1991-10-08",
+        "position": "Инженер",
+        "experience": 8
+    },
+    {
+        "id": 30,
+        "full_name": "Смирнова Анна",
+        "city": "Павлодар",
+        "birth_date": "1988-06-12",
+        "position": "Инженер",
+        "experience": 5
+    },
+    {
+        "id": 31,
+        "full_name": "Омаров Жанас",
+        "city": "Актобе",
+        "birth_date": "1994-07-21",
+        "position": "Инженер",
+        "experience": 4
+    },
+    {
+        "id": 32,
+        "full_name": "Иванов Айдана",
+        "city": "Шымкент",
+        "birth_date": "1990-08-07",
+        "position": "Продавец",
+        "experience": 10
+    },
+    {
+        "id": 33,
+        "full_name": "Омаров Айдана",
+        "city": "Алматы",
+        "birth_date": "1993-10-11",
+        "position": "Менеджер",
+        "experience": 12
+    },
+    {
+        "id": 34,
+        "full_name": "Смирнова Алихан",
+        "city": "Павлодар",
+        "birth_date": "1978-03-06",
+        "position": "Студент",
+        "experience": 6
+    },
+    {
+        "id": 35,
+        "full_name": "Ахметова Алихан",
+        "city": "Алматы",
+        "birth_date": "1975-12-02",
+        "position": "Инженер",
+        "experience": 13
+    },
+    {
+        "id": 36,
+        "full_name": "Ким Иван",
+        "city": "Шымкент",
+        "birth_date": "1981-01-28",
+        "position": "Студент",
+        "experience": 0
+    },
+    {
+        "id": 37,
+        "full_name": "Омаров Иван",
+        "city": "Караганда",
+        "birth_date": "1988-08-26",
+        "position": "Студент",
+        "experience": 0
+    },
+    {
+        "id": 38,
+        "full_name": "Ахметова Айдана",
+        "city": "Алматы",
+        "birth_date": "1995-01-20",
+        "position": "Инженер",
+        "experience": 9
+    },
+    {
+        "id": 39,
+        "full_name": "Смирнова Айдана",
+        "city": "Алматы",
+        "birth_date": "2000-11-02",
+        "position": "Продавец",
+        "experience": 12
+    },
+    {
+        "id": 40,
+        "full_name": "Ахметова Руслан",
+        "city": "Шымкент",
+        "birth_date": "1981-12-02",
+        "position": "Продавец",
+        "experience": 3
+    },
+    {
+        "id": 41,
+        "full_name": "Петров Анна",
+        "city": "Алматы",
+        "birth_date": "1984-09-21",
+        "position": "Менеджер",
+        "experience": 9
+    },
+    {
+        "id": 42,
+        "full_name": "Петров Руслан",
+        "city": "Павлодар",
+        "birth_date": "1977-12-01",
+        "position": "Менеджер",
+        "experience": 7
+    },
+    {
+        "id": 43,
+        "full_name": "Серикова Айдана",
+        "city": "Астана",
+        "birth_date": "1997-03-18",
+        "position": "Инженер",
+        "experience": 3
+    },
+    {
+        "id": 44,
+        "full_name": "Смирнова Айдана",
+        "city": "Алматы",
+        "birth_date": "1985-07-04",
+        "position": "Продавец",
+        "experience": 7
+    },
+    {
+        "id": 45,
+        "full_name": "Ахметова Алихан",
+        "city": "Астана",
+        "birth_date": "1977-08-05",
+        "position": "Менеджер",
+        "experience": 13
+    },
+    {
+        "id": 46,
+        "full_name": "Петров Жанас",
+        "city": "Алматы",
+        "birth_date": "1995-01-12",
+        "position": "Менеджер",
+        "experience": 15
+    },
+    {
+        "id": 47,
+        "full_name": "Иванов Алихан",
+        "city": "Шымкент",
+        "birth_date": "1985-03-02",
+        "position": "Продавец",
+        "experience": 0
+    },
+    {
+        "id": 48,
+        "full_name": "Смирнова Иван",
+        "city": "Алматы",
+        "birth_date": "1994-04-07",
+        "position": "Продавец",
+        "experience": 8
+    },
+    {
+        "id": 49,
+        "full_name": "Ахметова Айдана",
+        "city": "Астана",
+        "birth_date": "1979-12-17",
+        "position": "Продавец",
+        "experience": 0
+    },
+    {
+        "id": 50,
+        "full_name": "Аменбеков Айдана",
+        "city": "Актобе",
+        "birth_date": "1995-07-22",
+        "position": "Инженер",
+        "experience": 3
+    },
+    {
+        "id": 51,
+        "full_name": "Серикова Руслан",
+        "city": "Павлодар",
+        "birth_date": "2001-01-01",
+        "position": "Инженер",
+        "experience": 5
+    },
+    {
+        "id": 52,
+        "full_name": "Серикова Алихан",
+        "city": "Астана",
+        "birth_date": "2005-03-14",
+        "position": "Продавец",
+        "experience": 15
+    },
+    {
+        "id": 53,
+        "full_name": "Аменбеков Анна",
+        "city": "Шымкент",
+        "birth_date": "1996-02-20",
+        "position": "Менеджер",
+        "experience": 1
+    },
+    {
+        "id": 54,
+        "full_name": "Иванов Дана",
+        "city": "Павлодар",
+        "birth_date": "2005-08-21",
+        "position": "Менеджер",
+        "experience": 3
+    },
+    {
+        "id": 55,
+        "full_name": "Иванов Анна",
+        "city": "Павлодар",
+        "birth_date": "1982-12-25",
+        "position": "Инженер",
+        "experience": 9
+    },
+    {
+        "id": 56,
+        "full_name": "Смирнова Анна",
+        "city": "Астана",
+        "birth_date": "1983-06-11",
+        "position": "Менеджер",
+        "experience": 14
+    },
+    {
+        "id": 57,
+        "full_name": "Смирнова Айдана",
+        "city": "Алматы",
+        "birth_date": "1976-06-21",
+        "position": "Менеджер",
+        "experience": 5
+    },
+    {
+        "id": 58,
+        "full_name": "Смирнова Руслан",
+        "city": "Караганда",
+        "birth_date": "1999-03-04",
+        "position": "Инженер",
+        "experience": 3
+    },
+    {
+        "id": 59,
+        "full_name": "Ахметова Алихан",
+        "city": "Караганда",
+        "birth_date": "2005-06-21",
+        "position": "Продавец",
+        "experience": 15
+    },
+    {
+        "id": 60,
+        "full_name": "Ахметова Айдана",
+        "city": "Алматы",
+        "birth_date": "2003-04-02",
+        "position": "Менеджер",
+        "experience": 9
+    }
+]

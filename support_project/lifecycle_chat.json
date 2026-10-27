@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "user_id": 1,
+        "operator_id": 1,
+        "status": "closed",
+        "created_at": "2026-10-27T11:49:36",
+        "closed_at": "2026-10-27T11:49:36",
+        "csat": 5,
+        "messages": [
+            {
+                "sender_type": "user",
+                "sender_id": 1,
+                "text": "Не могу войти в аккаунт",
+                "sent_at": "2026-10-27T11:49:36"
+            },
+            {
+                "sender_type": "operator",
+                "sender_id": 1,
+                "text": "Попробуйте восстановить пароль",
+                "sent_at": "2026-10-27T11:49:36"
+            }
+        ]
+    }
+]

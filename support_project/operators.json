@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "full_name": "Омаров Анна",
+        "city": "Караганда",
+        "birth_date": "1985-10-03",
+        "position": "Оператор поддержки",
+        "experience": 11,
+        "is_busy": true,
+        "active_chat_id": 7
+    },
+    {
+        "id": 2,
+        "full_name": "Иванов Руслан",
+        "city": "Павлодар",
+        "birth_date": "1996-01-02",
+        "position": "Оператор поддержки",
+        "experience": 8,
+        "is_busy": true,
+        "active_chat_id": 42
+    },
+    {
+        "id": 3,
+        "full_name": "Ким Айдана",
+        "city": "Караганда",
+        "birth_date": "1983-01-01",
+        "position": "Оператор поддержки",
+        "experience": 0,
+        "is_busy": true,
+        "active_chat_id": 11
+    },
+    {
+        "id": 4,
+        "full_name": "Смирнова Руслан",
+        "city": "Караганда",
+        "birth_date": "1989-01-01",
+        "position": "Оператор поддержки",
+        "experience": 0,
+        "is_busy": true,
+        "active_chat_id": 10
+    },
+    {
+        "id": 5,
+        "full_name": "Омаров Айдана",
+        "city": "Актобе",
+        "birth_date": "1980-03-26",
+        "position": "Оператор поддержки",
+        "experience": 12,
+        "is_busy": true,
+        "active_chat_id": 52
+    },
+    {
+        "id": 6,
+        "full_name": "Петров Алихан",
+        "city": "Павлодар",
+        "birth_date": "1983-10-13",
+        "position": "Оператор поддержки",
+        "experience": 6,
+        "is_busy": true,
+        "active_chat_id": 40
+    },
+    {
+        "id": 7,
+        "full_name": "Ким Мария",
+        "city": "Шымкент",
+        "birth_date": "1983-03-14",
+        "position": "Оператор поддержки",
+        "experience": 1,
+        "is_busy": true,
+        "active_chat_id": 4
+    },
+    {
+        "id": 8,
+        "full_name": "Ахметова Айдана",
+        "city": "Астана",
+        "birth_date": "1999-05-09",
+        "position": "Оператор поддержки",
+        "experience": 3,
+        "is_busy": true,
+        "active_chat_id": 21
+    },
+    {
+        "id": 9,
+        "full_name": "Иванов Айдана",
+        "city": "Шымкент",
+        "birth_date": "1992-04-23",
+        "position": "Оператор поддержки",
+        "experience": 0,
+        "is_busy": true,
+        "active_chat_id": 17
+    },
+    {
+        "id": 10,
+        "full_name": "Ким Жанас",
+        "city": "Караганда",
+        "birth_date": "1996-10-22",
+        "position": "Оператор поддержки",
+        "experience": 14,
+        "is_busy": true,
+        "active_chat_id": 19
+    },
+    {
+        "id": 11,
+        "full_name": "Петров Иван",
+        "city": "Шымкент",
+        "birth_date": "1978-07-15",
+        "position": "Оператор поддержки",
+        "experience": 1,
+        "is_busy": true,
+        "active_chat_id": 29
+    },
+    {
+        "id": 12,
+        "full_name": "Аменбеков Мария",
+        "city": "Караганда",
+        "birth_date": "2001-07-07",
+        "position": "Оператор поддержки",
+        "experience": 2,
+        "is_busy": true,
+        "active_chat_id": 18
+    }
+]
